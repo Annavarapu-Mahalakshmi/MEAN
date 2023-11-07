@@ -1,0 +1,28 @@
+﻿Mean stack is a ____. { = JavaScript-based framework  ~ Angular-based framework  ~ Python-based framework  }
+
+MongoDB stores data in which format? _________  { ~ Text  ~ CSV  ~ XLS  = JSON }
+
+Which one is resolution independent? { ~ canvas  = SVG  ~ Googlemaps   ~ Bitmap graphics }
+
+The canvas element has a DOM method it is called. {  = getContext  ~ getId   ~ getElement  ~ None of the above }
+
+In localStorage object data ________ { ~ is deleted after the browser has been closed  ~ can be seen but can not edit  ~ can be seen as well as edit  = is not deleted after the browser has been closed }
+
+Which event will fire every time when the mouse is moved while the object is being dragged. { ~ Drop  ~  Dragend  =  Drag ~ Dragstart }
+
+What does showPosition() returns? { ~ only latitude  = both latitude and longitude  ~ only longitude  ~ direction }
+
+Which of the following class in Bootstrap is used to provide a responsive fixed width container? {  ~ .container-fixed ~ .container-fluid  = .container  ~ All of the above}
+
+Which of the following class in bootstrap is used to create a big box for calling extra attention? {  ~ .box  ~ .container  = .jumbotron  ~ .container-fluid }
+
+Which of the following plugins can be used to cycle through the elements like a slideshow? { ~ Slideshow  ~ Scrollspy  = Carousel  ~ None of the above }
+	
+Which of the below is a feature of Bootstrap which is used for styling and formatting the text content ?{ ~ List group   = Typography   ~ Popover  ~ None of the above }
+
+Which is default for a form { = Vertical form  ~ Horizontal form  ~ Inline form  ~ None of the above   }
+
+How many columns are allowed in a bootstrap grid system? { ~ 5  ~ 3 ~ 8  = 12 }
+
+Which of the following grid class in Bootstrap is used for desktops? {  = md  ~ xs  ~ lg  ~ sm}
+
